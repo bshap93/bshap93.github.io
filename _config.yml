@@ -1,0 +1,21 @@
+# Site settings
+title:  Other worlds than these
+header-img: img/home-bg.png
+email: bshap93@gmail.com
+copyright_name: bshap93
+description: > # this means to ignore newlines until "baseurl:"
+  Becoming a developer with an interest in the human element
+baseurl: "" # the subpath of your site, e.g. /blog
+twitter_username: bshap93
+github_username:  bshap93
+learn_profile: bshap93
+email_username: bshap93@gmail.com
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
