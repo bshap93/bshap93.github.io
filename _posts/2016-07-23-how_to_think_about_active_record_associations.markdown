@@ -5,11 +5,9 @@ date:   2016-07-23 13:53:17 -0400
 ---
 
 ActiveRecord associations are pretty intuitive, but one thing that can trip people up is the need for join tables. If you've learned SQL, you know that when there is a many to many assocation between two tables, (meaning for each item in two different tables, there are multiple associated items for every item of both tables), you need a join table to avoid needing an additional additional column. For example, in the bookmark with tags domain, imagine having to do:
-<pre>
 id      name  bookmark_id_1     bookmark_id_2   bookmark_id_3
 1       dev               1                 2             3          
 2       math              1                 6                      
-</pre>
 So you start using ActiveRecord, and it seems to work by magic. You can say that a table `belongs_to` another table in the table in the model and say that a table `has_many` of another table's items with no extra work. So say you have bookmarks and tags. You might think you could just have this:
 <pre>
 class Bookmark < ActiveRecord::Base
