@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Building a Sinatra App"
+title:  "Linkfiend, Social Bookmarking with Sinatra"
 date:   2016-07-30 20:18:31 -0400
 ---
 
