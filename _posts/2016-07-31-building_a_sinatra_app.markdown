@@ -27,7 +27,9 @@ To build the app, I used the bcrypt gem to encrypt user passwords, sqlite and Ac
 > Has many bookmarks
 
 I used slugs as the method of identifying objects such as users and tags, creating a slugafiable module with a class method for finding objects and an instance method for taking a name and slugifying it. I also enjoyed making it pretty using Bootstrap. Generally, the site looks like this:
-![](http://imgur.com/SmBFLCE)
+
+[Imgur](http://i.imgur.com/SmBFLCE.png)
+
 I decided after I had build most of the functionality that if someone just gives a URL, that the app should scrape the title and attempt to scrape a description from the metadata and automatically put it into a new bookmark.
 
 One of the things I learned from this project was that nil values need to be handled carefully because they can easily make Sinatra throw an error. I also see the need for an easier way to only let logged in users see content, as this could potentially become unmanageable for a larger project. 
