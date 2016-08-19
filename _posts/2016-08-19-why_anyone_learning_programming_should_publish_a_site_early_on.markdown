@@ -1,10 +1,10 @@
 ---
 layout: post
 title:  "Why Anyone Learning Programming Should Publish a Site Early On"
-date:   2016-08-19 21:23:41 +0000
+date:   2016-08-19 17:23:41 -0400
 ---
 
-Anyone learning programming, especially web development is probably starting with at least HTML, CSS and Javascript early on. What I'm proposing is something you can do to boost your confidence early on as you learn and develop your skills. The key is to have complete control over your site.
+Anyone learning programming, especially web development is probably starting with at least HTML, CSS and quite possibly Javascript early on. What I'm proposing is something you can do to boost your confidence early on as you learn and develop your skills. The key is to have complete control over your site.
 
 #### Control over your code and your domain is key
 
