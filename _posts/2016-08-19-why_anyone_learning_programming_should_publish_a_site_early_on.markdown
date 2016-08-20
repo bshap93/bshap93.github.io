@@ -18,7 +18,7 @@ Getting up and running with your HTML, CSS and Javascript is easy with Github Pa
 
 It's great to have your code viewable from your username.github.io domain but if you can afford it, I highly recommend buying a domain name. You will feel like your site is totally yours, because you named it. [Namecheap](http://namecheap.com) is cheap and easy to connect to your Github pages site. They even have a [guide](https://www.namecheap.com/support/knowledgebase/article.aspx/9645/2208/how-do-i-link-my-domain-to-github-pages) to walk you through step by step to connect your site to your domain. Again, since you're using GH pages, there's no need to pay for web hosting. Just buy a domain name.
 
-> Show it Off
+> Show it Off!
 
 It's like writing your first Hello World program except it's there at the fingertips of everyone on earth. Again, I waited too long to make my first site. I recommend doing it after the first month of learning to code.
 
