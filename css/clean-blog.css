@@ -82,7 +82,7 @@ hr.small {
     color: #14477c;
   }
   .navbar-custom .nav li a {
-    color: white;
+    color: #14477c;
     padding: 20px;
   }
   .navbar-custom .nav li a:hover,
@@ -155,7 +155,7 @@ hr.small {
 .intro-header .post-heading,
 .intro-header .page-heading {
   padding: 100px 0 50px;
-  color: white;
+  color: #14477c;
 }
 @media only screen and (min-width: 768px) {
   .intro-header .site-heading,
