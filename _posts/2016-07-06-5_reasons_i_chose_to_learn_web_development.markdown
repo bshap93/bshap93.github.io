@@ -8,7 +8,7 @@ There are surely many many reasons I chose to learn web development but here are
 > Less Spinning my Wheels
 
 I wanted to do something that was clear cut and logically intensive. Coming from a background in Psychology, I knew I wanted something that was relatively less open to countless iterations of rethinking and having whole new theories with each one. With programming, you're able to build on such iterations. In Psychology, many times that's not the case, but certainly not always.
-> Building on Your Skills
+> Building on Your Skills-
 
 Web Development and programming in general can be learned and that learning can be built upon more quickly, or more tangibly than in social sciences. It could take decades to feel like an expert on a social science. Web development takes time to learn, sure, but ultimately, the learning feels more rewarding and that's huge.
 > Flexibility
