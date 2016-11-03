@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Hackathons and Mental Health"
-date:   2016-10-19 17:08:18 -0400
+date:   2016-10-31 17:08:18 -0400
 ---
 
 For the aspiring developer, everywhere you hear that hackathons are amazing, fun, challenging and essentially one of the best ways to meet amazing people and network. Three weeks ago, I had never been to a hackathon, but was planning on going to two in the next two consecutive weekends. I was worried, having been told by my doctor that he had bipolar patients become highly manic after staying awake for the 24 hours of a hackathon.
