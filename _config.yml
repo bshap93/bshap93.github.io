@@ -1,15 +1,14 @@
 # Site settings
-title: School of Expression
+author: Benjamin Shapiro
+title: Sort Yourself Out! A blog by me.
 header-img: img/home-bg.png
 email: bshap93@gmail.com
-copyright_name: bshap93
+copyright_name: Benjamin Shapiro
 description: > # this means to ignore newlines until "baseurl:"
-  Projects and things I'm learning
+  Get that schmutz out of ur schnoz
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: bshap93
 github_username:  bshap93
-learn_profile: bshap93
-email_username: bshap93@gmail.com
 
 # Build settings
 markdown: kramdown
