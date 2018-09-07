@@ -1,9 +1,9 @@
 # Site settings
-author: Benjamin Shapiro
+author: Ben Shapiro
 title: my blog
 header-img: img/home-bg.png
 email: bshap93@gmail.com
-copyright_name: Benjamin Shapiro
+copyright_name: Ben Shapiro
 description: > # this means to ignore newlines until "baseurl:"
   computer stuff i make and learn
 baseurl: "" # the subpath of your site, e.g. /blog
