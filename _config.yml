@@ -1,11 +1,11 @@
 # Site settings
 author: Ben Shapiro
-title: my blog
+title: <hack>
 header-img: img/home-bg.png
 email: bshap93@gmail.com
 copyright_name: Ben Shapiro
 description: > # this means to ignore newlines until "baseurl:"
-  computer stuff i make and learn
+  _posts 
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: bshap93
 github_username:  bshap93
