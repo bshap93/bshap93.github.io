@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "New Location"
-date:       2019-11-26 19:43:15 +0000
+date:       2019-11-26 14:43:16 -0500
 permalink:  new_location
 ---
 
