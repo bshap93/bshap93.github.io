@@ -5,7 +5,7 @@ header-img: img/home-bg.png
 email: bshap93@gmail.com
 copyright_name: Ben Shapiro
 description: > # this means to ignore newlines until "baseurl:"
-  Posts from 2016-2018
+  Posts from 2016-2020
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: bshap93
 github_username:  bshap93
